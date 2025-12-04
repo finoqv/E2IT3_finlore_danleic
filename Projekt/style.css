@@ -1,0 +1,137 @@
+body {
+    background-color: black;
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: difference;
+}
+
+
+h1 {
+font-family: 'Arial', sans-serif;
+color: orange;
+font-size: 70px;
+font-style: normal;
+text-align: center;
+margin-top: 30px;
+padding: 10px;
+text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+letter-spacing: 2px;
+}
+
+
+
+p{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 5px orange;
+    padding: 10px;
+    margin-left: 500px;
+}
+
+
+.Start {
+    background-color: transparent !important;
+    color: white;
+    font-size: 30px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px orange;
+    font-weight: bold;
+    transition: 0.2s ease; /* wichtig für weiche Animation */
+}
+.Start:hover {
+    color: orange; /* Textfarbe beim Hover */
+    text-shadow: 0 0 10px orange; /* Glow-Effekt */
+    cursor: pointer;
+}
+
+
+
+.Termin {
+    background-color: transparent !important;
+    color: white;
+    font-size: 30px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px orange;
+    font-weight: bold;
+    transition: 0.2s ease; /* wichtig für weiche Animation */
+}
+ 
+.Termin:hover {
+    color: orange; /* Textfarbe beim Hover */
+    text-shadow: 0 0 10px orange; /* Glow-Effekt */
+    cursor: pointer;
+}
+
+.Preisliste {
+    background-color: transparent !important;
+    color: white;
+    font-size: 30px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px orange;
+    font-weight: bold;
+    transition: 0.2s ease; /* wichtig für weiche Animation */
+}
+ 
+.Preisliste:hover {
+    color: orange; /* Textfarbe beim Hover */
+    text-shadow: 0 0 10px orange; /* Glow-Effekt */
+    cursor: pointer;
+}
+
+.Bewertungen {
+    background-color: transparent !important;
+    color: white;
+    font-size: 30px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px orange;
+    font-weight: bold;
+    transition: 0.2s ease; /* wichtig für weiche Animation */
+}
+ 
+.Bewertungen:hover {
+    color: orange; /* Textfarbe beim Hover */
+    text-shadow: 0 0 10px orange; /* Glow-Effekt */
+    cursor: pointer;
+}
+
+
+.Fotogalerie {
+    background-color: transparent !important;
+    color: white;
+    font-size: 30px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px orange;
+    font-weight: bold;
+    transition: 0.2s ease; /* wichtig für weiche Animation */
+}
+
+.Fotogalerie:hover {
+    color: orange; /* Textfarbe beim Hover */
+    text-shadow: 0 0 10px orange; /* Glow-Effekt */
+    cursor: pointer;
+}
+
+
+button:hover{
+background-color: orange;
+transition: 0.6s ease; /* wichtig für weiche Animation */
+} 
