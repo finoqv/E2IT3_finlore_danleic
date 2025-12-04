@@ -1,0 +1,49 @@
+body{background-color: black;
+
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color:white
+}
+h4{
+    color:grey
+}
+
+/* button*/
+.Werbebutton{
+    display: inline-block;                                       /* Macht den Button wie ein Block, aber nebeneinander mit Text */
+    padding: 10px 20px;                                           /* Innenabstand: oben/unten 10px, links/rechts 20px */
+    background: orange;                                        /* Hintergrundfarbe des Buttons */
+    color: white;                                                 /* Textfarbe */
+    border-radius:5px;                                              /* Abgerundete Ecken */
+    font-weight: bold;                                            /* Fettschrift */
+    text-align: center;                                           /* Text zentriert */
+    margin: 20px 0;                                              /* Abstand oben und unten vom Button */
+    
+
+}
+
+
+.Werbebutton:hover {                                             /* Button wird dunkler beim Drüberfahren mit der Maus */
+    background: rgb(163, 110, 44);
+
+}
+
+/*Iframe Wervbung*/
+.iframe-Werbung{
+    float: right;                                                  /* zenrieert Werbung am Rand*/
+    margin-right: 5px;
+    margin-top: -50px;
+    text-align: center;
+}
+.iframe-Werbung iframe {
+    width: 300px;
+    height: 500px;
+    border: 0;                                                       /* Entfernt den Standardrahmen */
+    display: block;                                                  /* Blockelement, damit float + margin korrekt wirken */
+}
