@@ -1,0 +1,47 @@
+body {
+
+background-color: black;
+}
+
+
+h1{
+font-family: sans-serif;
+font-size: 60px;
+color: orange;
+text-align: center;
+margin-top: 30px;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: orange;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 75px;
+    text-decoration: underline;
+}
+
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  margin-left: 50px;
+  font-size: 40pxpx;
+  color: orange;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
