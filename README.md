@@ -5,3 +5,7 @@ Wir haben zusammen angefangen eine Homepage für unseren Barbershop zu erstellen
 
 03.12.2025
 Angefangen meine eigene Seite zu erstellen (daniel)
+
+
+03.12.2025
+Angefangen meine eigene Seite zu erstellen (Finn)
