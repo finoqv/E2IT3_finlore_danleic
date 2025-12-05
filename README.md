@@ -14,3 +14,7 @@ Angefangen meine eigene Seite zu erstellen (Finn)
 Iframe als Werbung verpackt ,button der zur Seite von der iframe Werbung führt,in css die Werbung Rechtsunten in die Ecke gepackt ung Größen etc. angepasst.(Daniel)
 Termin Buchen Website weiter bearbeitet und Startseite weiter bearbeitet (Finn) 
 Alles von uns beiden zusammengepackt findet sich aktuell in dem Ordner Projekt
+
+
+05.12.2025
+Bild eingefüt und Schrift geändert auf Termin Buchen Website (Finn)
