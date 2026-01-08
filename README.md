@@ -18,3 +18,7 @@ Alles von uns beiden zusammengepackt findet sich aktuell in dem Ordner Projekt
 
 05.12.2025
 Bild eingefüt und Schrift geändert auf Termin Buchen Website (Finn)
+
+
+08.01.2026
+Semantische Elemente Korrigiert, CSS Grid mit responsivem Design, Flexbox (finn) bei meiner Website: termin.html,termin.css
