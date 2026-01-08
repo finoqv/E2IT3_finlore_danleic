@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Termin Buchung – Barbershop</title>
+  <link rel="stylesheet" href="termin.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Termin Buchung</h1>
+</header>
+
+<main class="layout">
+
+  <!-- LINKER BEREICH -->
+  <section class="left">
+
+    <h2>Wählen Sie Ihre Leistungen:</h2>
+
+    <div class="services">
+      <label><input type="checkbox"> Haarschnitt Herren: 20€, Dauer: 20 Minuten</label>
+      <label><input type="checkbox"> Bart: 15€, Dauer: 15 Minuten</label>
+      <label><input type="checkbox"> Haar und Bart: 30€, Dauer: 35 Minuten</label>
+      <label><input type="checkbox"> Gesichtswäsche: 5€, Dauer: 5 Minuten</label>
+      <label><input type="checkbox"> Augenbrauen: 8€, Dauer: 15 Minuten</label>
+      <label><input type="checkbox"> Kinderhaarschnitt: 15€, Dauer: 15 Minuten</label>
+    </div>
+
+    <h2 class="Kontaktdaten">Kontaktdaten:</h2>
+
+    <form class="Daten">
+
+      <label for="name">Ihr Name</label>
+      <input type="text" id="name" required>
+
+      <label for="email">Ihre E-Mail-Adresse</label>
+      <input type="email" id="email" required>
+
+      <label for="tel">Ihre Telefonnummer</label>
+      <input type="tel" id="tel" required>
+
+      <label for="msg">Was möchten Sie uns mitteilen?</label>
+      <textarea id="msg" rows="5"></textarea>
+
+      <div class="btns-row">
+        <button type="submit">Termin buchen</button>
+      </div>
+
+    </form>
+  </section>
+
+  <!-- RECHTER BEREICH -->
+  <aside class="right">
+
+    <h2 class="Adresse">Adresse:</h2>
+    <p class="Straße">
+      Max-Eyth-Str. 9<br>
+      74523 Schwäbisch Hall<br>
+      Baden-Württemberg
+    </p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2612.205257789581!2d9.736457676984532!3d49.10174097136629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4798506c06d9b3a9%3A0x3beef9ff4ea48dee!2sMax-Eyth-Stra%C3%9Fe%209%2C%2074523%20Schw%C3%A4bisch%20Hall%2C%20Deutschland!5e0!3m2!1sde!2sus!4v1767874981674!5m2!1sde!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    <img src="pictures/barbershopinnen.png"
+         alt="Innenansicht des Barbershops"
+         class="innen">
+
+  </aside>
+
+</main>
+
+<footer>
+  <p>© 2026 Barbershop – Schulprojekt</p>
+</footer>
+
+</body>
+</html>
